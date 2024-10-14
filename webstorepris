@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ejemplo de HTML Simple</title>
+</head>
+<body>
+
+    <h1>Bienvenidos a Mi Página Web</h1>
+
+    <p>Esta es una página de ejemplo creada para demostrar un código HTML básico.</p>
+
+    <ul>
+        <li>Primera característica</li>
+        <li>Segunda característica</li>
+        <li>Tercera característica</li>
+    </ul>
+
+    <p>Gracias por visitar esta página de prueba.</p>
+
+</body>
+</html>
